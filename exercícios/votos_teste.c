@@ -1,10 +1,3 @@
-/*Desenvolva um programa em C que possua um loop infinito e que receba um inteiro
-do telado, se o valor digitado for maior ou igual a 18 anos, 
-informe na tela: "Voto obrigatório". Se valor digitado for maior que 15 e menor que 18,
-imprima na tela: "voto opcional". Caso contrário escreva na tela: "Proibido votar".
-A condição de parada será quando o valor digitado for menor que 1.    
-Ao final, o programa deve informar quantas idade com votos opcionais e quantas idades
-com votos obrigatórios foram computados.*/
 #include <stdio.h>
 int main(void)
 {
